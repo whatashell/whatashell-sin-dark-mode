@@ -36,7 +36,7 @@ keywords:              [hacking, ofensiva, pentesting, cybersecurity, cibersegur
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/console.png
+logo:                  /assets/img/shell_neon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
